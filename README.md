@@ -4,7 +4,7 @@
 
 ## Project Overview
 
-This project simulates a tournament between an AI-driven strategy (LLM_strategy) and the EvolvedANN strategy in the context of the Iterated Prisoner's Dilemma. The LLM_strategy leverages OpenAI's language models to make decisions based on historical game data, while EvolvedANN uses a neural network-based approach.
+This project simulates a tournament between an LLM agent against various algorithms in an Iterated Prisoner's Dilemma. The LLM_strategy leverages OpenAI's language models to make decisions based on historical game data, as well as the code of the opponen't strategy.
 
 
 ### Prerequisites
